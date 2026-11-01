@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 180" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-canvas" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="65%" stop-color="#FAFAFD" />
+      <stop offset="100%" stop-color="#EDE9FE" stop-opacity="0.5" />
+    </linearGradient>
+    <linearGradient id="accent-bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="60%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#93C5FD" />
+    </linearGradient>
+    <linearGradient id="pill-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EDE9FE" />
+      <stop offset="100%" stop-color="#DBEAFE" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .name-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 34px;
+      font-weight: 800;
+      fill: #1E293B;
+      letter-spacing: -0.035em;
+    }
+    .role-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #6366F1;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .tagline-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      fill: #64748B;
+      letter-spacing: -0.01em;
+    }
+    .pill-label {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #4338CA;
+      letter-spacing: 0.05em;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="880" height="180" rx="12" fill="url(#bg-canvas)" stroke="#E2E8F0" stroke-width="1" />
+
+  <!-- Subtle Editorial Geometric Details -->
+  <circle cx="780" cy="40" r="110" fill="#EDE9FE" fill-opacity="0.4" />
+  <circle cx="830" cy="140" r="70" fill="#DBEAFE" fill-opacity="0.45" />
+
+  <!-- Hairline Technical Accents -->
+  <line x1="44" y1="24" x2="44" y2="156" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="2 3" opacity="0.8" />
+  <line x1="840" y1="24" x2="840" y2="156" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="2 3" opacity="0.4" />
+
+  <!-- Left Technical Coordinate Marks -->
+  <text x="32" y="32" font-family="monospace" font-size="8" fill="#94A3B8">+</text>
+  <text x="32" y="160" font-family="monospace" font-size="8" fill="#94A3B8">+</text>
+
+  <!-- Content Block -->
+  <g transform="translate(68, 34)">
+    <!-- Institution / Status Tag -->
+    <rect x="0" y="0" width="220" height="22" rx="11" fill="url(#pill-bg)" />
+    <circle cx="11" cy="11" r="3" fill="#10B981" />
+    <text x="22" y="15" class="pill-label">FPT UNIVERSITY · SOFTWARE ENG</text>
+
+    <!-- Prominent Name -->
+    <text x="0" y="58" class="name-text">Trần Hoàng Việt</text>
+
+    <!-- Concise Subtitle -->
+    <text x="0" y="84" class="role-text">Software Engineer / AI Enthusiast / Backend &amp; Embedded Systems</text>
+
+    <!-- Tagline -->
+    <text x="0" y="108" class="tagline-text">Building Intelligent Applications, Scalable Systems &amp; Connected Devices.</text>
+  </g>
+
+  <!-- Bottom Accent Stripe -->
+  <rect x="0" y="177" width="880" height="3" rx="1.5" fill="url(#accent-bar)" />
+</svg>
