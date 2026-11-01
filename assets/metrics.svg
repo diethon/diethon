@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 110" width="100%" height="100%">
+  <defs>
+    <linearGradient id="metric-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .metric-index { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, sans-serif; font-size: 11px; font-weight: 600; fill: #6366F1; letter-spacing: 0.08em; }
+    .metric-value { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, sans-serif; font-size: 16px; font-weight: 700; fill: #1E293B; letter-spacing: -0.02em; }
+    .metric-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, sans-serif; font-size: 12px; font-weight: 400; fill: #64748B; letter-spacing: -0.01em; }
+  </style>
+
+  <rect width="880" height="110" rx="10" fill="url(#metric-bg)" stroke="#E2E8F0" stroke-width="1" />
+
+  <!-- Column Dividers -->
+  <line x1="293" y1="18" x2="293" y2="92" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="2 3" />
+  <line x1="586" y1="18" x2="586" y2="92" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="2 3" />
+
+  <!-- Column 1 -->
+  <g transform="translate(36, 28)">
+    <text x="0" y="0" class="metric-index">01 / FOCUS DOMAIN</text>
+    <text x="0" y="26" class="metric-value">Intelligent Applications</text>
+    <text x="0" y="48" class="metric-sub">LLM Tooling • Developer Telemetry</text>
+  </g>
+
+  <!-- Column 2 -->
+  <g transform="translate(329, 28)">
+    <text x="0" y="0" class="metric-index">02 / CORE ARCHITECTURE</text>
+    <text x="0" y="26" class="metric-value">Full-Stack &amp; Embedded</text>
+    <text x="0" y="48" class="metric-sub">Spring Boot • Node.js • ESP32 (C++)</text>
+  </g>
+
+  <!-- Column 3 -->
+  <g transform="translate(622, 28)">
+    <text x="0" y="0" class="metric-index">03 / SPECIALIZATION</text>
+    <text x="0" y="26" class="metric-value">Type-Safe &amp; Layered</text>
+    <text x="0" y="48" class="metric-sub">Clean Architecture • PostgreSQL</text>
+  </g>
+</svg>
