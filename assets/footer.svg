@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 16" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footer-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EDE9FE" />
+      <stop offset="35%" stop-color="#6366F1" />
+      <stop offset="65%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#DBEAFE" />
+    </linearGradient>
+  </defs>
+  <rect width="880" height="4" rx="2" fill="url(#footer-grad)" opacity="0.8" />
+</svg>
