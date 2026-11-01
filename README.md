@@ -1,19 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#0f172a,50:#1e293b,100:#0284c7&height=220&section=header&text=Tr%E1%BA%A7n%20Ho%C3%A0ng%20Vi%E1%BB%87t&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20IoT%20%7C%20AI%20Telemetry&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#6366F1,50:#A78BFA,100:#DBEAFE&height=140&section=header" width="100%" alt="Header Banner" />
 
-  <a href="https://github.com/diethon">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Tr%E1%BA%A7n+Ho%C3%A0ng+Vi%E1%BB%87t+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+App+Developer;Embedded+IoT+Systems+%26+Hardware+Integration;Building+AI-Assisted+Engineering+Platforms;FPT+University+%E2%80%A2+Software+Engineering" alt="Typing SVG" />
-  </a>
+  <h1>Trần Hoàng Việt</h1>
+  
+  <p>
+    <strong>Software Engineering Student &bull; AI Enthusiast &bull; Backend Developer &bull; IoT &amp; Embedded Systems</strong>
+  </p>
+  
+  <p>
+    <em>"Building Intelligent Applications, Scalable Systems &amp; Connected Devices."</em>
+  </p>
 
-  <p align="center">
+  <p>
+    <a href="https://github.com/diethon">
+      <img src="https://img.shields.io/badge/GitHub-diethon-6366F1?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+    &nbsp;
     <a href="mailto:vietthde180482@fpt.edu.vn">
-      <img src="https://img.shields.io/badge/Email-vietthde180482%40fpt.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/diethon">
-      <img src="https://img.shields.io/badge/GitHub-diethon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://github.com/diethon">
-      <img src="https://img.shields.io/badge/FPT%20University-DE180482-F37021?style=for-the-badge&logo=fpt&logoColor=white" alt="FPT University" />
+      <img src="https://img.shields.io/badge/Email-vietthde180482%40fpt.edu.vn-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email Address" />
     </a>
   </p>
 </div>
@@ -22,182 +26,157 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Trần Hoàng Việt
-alias: diethon
-education: Software Engineering @ FPT University (DE180482)
-location: Da Nang, Vietnam
-status: Building scalable web platforms, IoT firmware & AI-powered tools
-passions:
-  - Full-Stack Web Development (React 19, TypeScript, Express, Spring Boot)
-  - Mobile App Engineering (Flutter, Dart, Riverpod)
-  - Embedded IoT Systems & Automation (ESP32, Arduino, C++)
-  - AI Integrations & Developer Telemetry (Google Gemini AI, OCR)
-```
+Hello! I am a **Software Engineering student at FPT University** dedicated to building reliable backend architectures, exploring modern AI and LLM workflows, and creating connected IoT ecosystems. I enjoy transforming theoretical designs into scalable, production-grade applications that solve practical engineering challenges.
 
-- 🎓 **Software Engineering** student at **FPT University**.
-- 🌟 Creator of **[Flow Intelligence for GitHub](https://github.com/diethon/Flow-Intelligence-Github)** — A developer telemetry & engineering analytics system with predictive AI models and weekly executive briefs using Gemini AI.
-- 🏠 Co-architect of the **HESTA Smart Home Ecosystem** (Graduation Capstone Project SEP490) — spanning embedded firmware, high-concurrency Spring Boot backend, cross-platform Flutter mobile app, and real-time React web dashboard.
-- 🔭 Actively exploring **AI integrations**, **embedded microcontrollers**, and **clean architectural patterns**.
-- 💬 Reach out to me for: Full-stack architectures, IoT device integration, or modern TypeScript/Java ecosystems.
+- 🎓 **Education:** Software Engineering student at **FPT University**.
+- 🧠 **AI & LLM Exploration:** Investigating Large Language Models, autonomous agent architectures, and intelligent software engineering analytics.
+- ⚙️ **Backend Engineering:** Designing robust RESTful APIs, layered architectures, and relational/document database schemas with Spring Boot, Node.js, and PostgreSQL.
+- 📡 **IoT & Embedded Systems:** Developing firmware, sensor telemetry pipelines, and hardware integration using ESP32, Arduino, and MQTT.
+- 🚀 **Core Drive:** Continuous learning, disciplined software craftsmanship, and shipping real-world projects.
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🛠️ Tech Stack
 
-<div align="center">
-
-#### 🌐 Languages & Core
+#### Languages & Core
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-334155?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### ⚡ Frontend & Mobile
+#### Frontend & Mobile
 <p>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-334155?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-334155?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Android-334155?style=flat-square&logo=android&logoColor=white" alt="Android" />
 </p>
 
-#### 🖥️ Backend, APIs & Databases
+#### Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-334155?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-334155?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-334155?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-#### 📡 IoT, Embedded & AI
+#### AI, IoT & Embedded Systems
 <p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/PaddleOCR-00599C?style=for-the-badge&logo=baidu&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-334155?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-334155?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Google_Gemini-334155?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/MQTT-334155?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
 </p>
 
-#### 🧰 Tools & DevOps
+#### Tools & Workflow
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-334155?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-334155?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-334155?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
-
-</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/diethon/Flow-Intelligence-Github">⚡ Flow Intelligence for GitHub</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
+      <h3>⚡ <a href="https://github.com/diethon/Flow-Intelligence-Github">Flow Intelligence for GitHub</a></h3>
+      <p><i>An AI-powered GitHub analytics platform that transforms repository activity into actionable insights.</i></p>
+      <p>
+        <code>React 19</code> &bull; <code>TypeScript</code> &bull; <code>Express</code> &bull; <code>MongoDB</code> &bull; <code>Google Gemini</code>
       </p>
-      <p>Developer telemetry & engineering analytics system that syncs GitHub events, tracks delivery KPIs, detects risk events with Evidence Cards, predicts PR delays, and generates weekly AI briefs.</p>
       <ul>
-        <li><b>Key features:</b> Predictive ML analytics, Gemini AI Briefs, OAuth syncing, Evidence Cards.</li>
-        <li><b>Link:</b> <a href="https://github.com/diethon/Flow-Intelligence-Github">Explore Repository →</a></li>
+        <li>Predictive ML analytics for pull request delivery.</li>
+        <li>AI-driven GitHub insights and automated weekly briefs.</li>
+        <li>Repository activity visualization and data health KPIs.</li>
+        <li>Intelligent developer analytics and Evidence Cards.</li>
       </ul>
+      <p>
+        <a href="https://github.com/diethon/Flow-Intelligence-Github"><b>View Repository &rarr;</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/diethon/iot_hesta">🏠 HESTA Smart Home (Capstone SEP490)</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <h3>🏠 <a href="https://github.com/diethon/backend_hesta">HESTA Smart Home</a></h3>
+      <p><i>An IoT smart home ecosystem developed as a capstone project, integrating embedded devices with a multi-platform management system.</i></p>
+      <p>
+        <code>ESP32</code> &bull; <code>C++</code> &bull; <code>Spring Boot</code> &bull; <code>Java</code> &bull; <code>React</code> &bull; <code>PostgreSQL</code>
       </p>
-      <p>End-to-end intelligent home automation ecosystem built as a Graduation Project at FPT University, uniting hardware, cloud services, and multi-platform clients.</p>
       <ul>
-        <li><a href="https://github.com/diethon/iot_hesta"><b>iot_hesta:</b></a> ESP32 firmware & sensor telemetry (C++).</li>
-        <li><a href="https://github.com/diethon/backend_hesta"><b>backend_hesta:</b></a> Spring Boot enterprise layered REST API.</li>
-        <li><a href="https://github.com/diethon/app_hesta"><b>app_hesta:</b></a> Flutter mobile app (Riverpod & Material 3).</li>
-        <li><a href="https://github.com/diethon/frontend_hesta"><b>frontend_hesta:</b></a> React management web dashboard.</li>
+        <li>ESP32 firmware and real-time sensor telemetry.</li>
+        <li>Robust Spring Boot RESTful API services.</li>
+        <li>Layered backend architecture and database persistence.</li>
+        <li>React management dashboard for monitoring and control.</li>
       </ul>
+      <p>
+        <a href="https://github.com/diethon/backend_hesta"><b>Backend Repository &rarr;</b></a> &bull;
+        <a href="https://github.com/diethon/frontend_hesta"><b>Frontend Repository &rarr;</b></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/diethon/reminder-web">⏰ Reminder Web App</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <h3>⏰ <a href="https://github.com/diethon/reminder-web">Reminder Web App</a></h3>
+      <p><i>A clean and responsive task scheduling application designed to support daily productivity.</i></p>
+      <p>
+        <code>React</code> &bull; <code>Vite</code> &bull; <code>TypeScript</code>
       </p>
-      <p>A clean, responsive task scheduler and reminder web application built for daily productivity and effortless time tracking.</p>
       <ul>
-        <li><b>Link:</b> <a href="https://github.com/diethon/reminder-web">Explore Repository →</a></li>
+        <li>Fast, responsive, and minimalist user interface.</li>
+        <li>Intuitive task scheduling and organization workflow.</li>
+        <li>Simple, distraction-free user experience.</li>
       </ul>
+      <p>
+        <a href="https://github.com/diethon/reminder-web"><b>View Repository &rarr;</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💡 Open Source & Continuous Exploration</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active%20Builder-success?style=flat-square" />
+      <h3>💡 <a href="https://github.com/diethon?tab=repositories">Open Source &amp; Continuous Exploration</a></h3>
+      <p><i>Active exploration of AI agents, LLM integrations, backend architecture, IoT, and developer productivity tools.</i></p>
+      <p>
+        <code>AI Agents</code> &bull; <code>LLM Integrations</code> &bull; <code>System Design</code> &bull; <code>IoT Telemetry</code>
       </p>
-      <p>Continuous learning and building across AI agents, OCR workflows (PaddleOCR), real-time embedded communication, and scalable web architectures.</p>
       <ul>
-        <li>Interested in collaborating on IoT & Full-stack projects? Drop a message!</li>
+        <li>Developing autonomous agent workflows and LLM tool interfaces.</li>
+        <li>Architecting scalable backends and resilient distributed APIs.</li>
+        <li>Prototyping microcontroller telemetry and smart device automation.</li>
+        <li>Creating developer productivity tooling and automated pipelines.</li>
       </ul>
+      <p>
+        <a href="https://github.com/diethon?tab=repositories"><b>View All Repositories &rarr;</b></a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🐍 Contribution Activity
+### 📊 GitHub Statistics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diethon/diethon/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diethon/diethon/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/diethon/diethon/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=diethon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=diethon&show_icons=true&bg_color=FFFFFF&title_color=6366F1&text_color=334155&icon_color=6366F1&hide_border=true" alt="GitHub Stats" width="100%" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diethon&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=diethon&layout=compact&bg_color=FFFFFF&title_color=6366F1&text_color=334155&hide_border=true" alt="Top Languages" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=diethon&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=diethon&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+        <img src="https://streak-stats.demolab.com/?user=diethon&background=FFFFFF&border=FFFFFF&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=334155&sideNums=334155&currStreakLabel=6366F1&sideLabels=94A3B8&dates=94A3B8&hide_border=true" alt="GitHub Streak" width="55%" />
       </td>
     </tr>
   </table>
@@ -206,5 +185,17 @@ passions:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#0f172a,50:#1e293b,100:#0284c7&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <h3>Let's Connect</h3>
+  <p><em>"Let's build something meaningful together."</em></p>
+  <p>
+    <a href="https://github.com/diethon">
+      <img src="https://img.shields.io/badge/GitHub-diethon-6366F1?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+    &nbsp;
+    <a href="mailto:vietthde180482@fpt.edu.vn">
+      <img src="https://img.shields.io/badge/Email-vietthde180482%40fpt.edu.vn-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email Address" />
+    </a>
+  </p>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#6366F1,50:#A78BFA,100:#DBEAFE&height=80&section=footer" width="100%" alt="Footer Banner" />
 </div>
