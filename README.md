@@ -32,7 +32,7 @@ passions:
   - Full-Stack Web Development (React 19, TypeScript, Express, Spring Boot)
   - Mobile App Engineering (Flutter, Dart, Riverpod)
   - Embedded IoT Systems & Automation (ESP32, Arduino, C++)
-  - AI Integrations & Developer Telemetry (Google Gemini API, OCR)
+  - AI Integrations & Developer Telemetry (Google Gemini AI, OCR)
 ```
 
 - 🎓 **Software Engineering** student at **FPT University**.
@@ -163,6 +163,18 @@ passions:
     </td>
   </tr>
 </table>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diethon/diethon/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diethon/diethon/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/diethon/diethon/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
